@@ -1,0 +1,61 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2023-05-30 19:44:52 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-05-30 19:47:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2023-05-30 20:01:35 -0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2023-05-30 20:01:55 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-05-30 19:47:18 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2023-05-30 19:49:03 -0300",
+      "orchard": "2023-05-30 19:44:52 -0300",
+      "field": "2023-05-30 19:50:36 -0300",
+      "cherry_blossom_grove": "2023-05-30 19:47:53 -0300",
+      "ominous_woods": "2023-05-30 20:00:58 -0300"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-05-30 19:56:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-05-30 20:01:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2023-05-30 19:48:56 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
