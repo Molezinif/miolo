@@ -1,0 +1,16 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "field": "2023-05-31 20:42:59 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2023-05-31 20:43:26 -0300",
+      "field": "2023-05-31 20:42:59 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
