@@ -29,9 +29,27 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-06-01 19:01:50 -0300"
+    },
+    "done": false
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2023-06-01 19:01:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-06-01 12:44:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-06-01 19:01:28 -0300"
     },
     "done": true
   },
@@ -57,6 +75,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2023-06-01 13:13:44 -0300"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2023-06-01 19:01:28 -0300"
     },
     "done": true
   },
