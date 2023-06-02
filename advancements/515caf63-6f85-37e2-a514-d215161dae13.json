@@ -68,9 +68,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2023-05-31 00:38:55 -0300",
-      "quark:foxhound": "2023-05-31 00:43:27 -0300"
+      "minecraft:piglin": "2023-06-02 01:05:54 -0300",
+      "quark:foxhound": "2023-05-31 00:43:27 -0300",
+      "minecraft:zombie": "2023-06-02 00:05:01 -0300"
     },
     "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-06-01 23:55:19 -0300"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -104,6 +112,7 @@
       "maple_woods": "2023-05-30 19:49:03 -0300",
       "orchard": "2023-05-30 19:44:52 -0300",
       "field": "2023-05-30 19:50:36 -0300",
+      "spider_nest": "2023-06-01 22:18:45 -0300",
       "cherry_blossom_grove": "2023-05-30 19:47:53 -0300",
       "ominous_woods": "2023-05-30 20:00:58 -0300"
     },
